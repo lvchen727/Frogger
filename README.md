@@ -3,9 +3,9 @@
 ### Summary
 My JAVA code for Frogger Arcade Game 
 
-##### How to win?
+#### How to win?
 Get the frog across the road without hitting by the cars! 
-##### Movement and Controls
+#### Movement and Controls
 Use up/right/left/down arrow keys on the keyboard to control the frog!
 
 ### Installation
