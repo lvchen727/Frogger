@@ -9,6 +9,7 @@ Get the frog across the road without hitting by the cars!
 Use up/right/left/down arrow keys on the keyboard to control the frog!
 
 ### Installation
-Download the source code
-Go to the source code folder in terminal
-Type in the command lines: java frogger/FroggerMain
+
+- Download the source code
+- Go to the source code folder in terminal
+- Type in the command lines: java frogger/FroggerMain
